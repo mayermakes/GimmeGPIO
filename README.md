@@ -1,6 +1,8 @@
 # GimmeGPIO
 hardware to add GPIO to any PC running Linux
 
-todo push software to repo,
-test
-back comit changes
+basic test, pins and pwm working
+updated FW
+python library working.
+pushed changes.
+case fits.
